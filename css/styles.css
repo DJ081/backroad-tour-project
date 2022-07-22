@@ -317,7 +317,6 @@ Hero
   margin-right: auto;
   color: var(--clr-white);
   letter-spacing: var(--spacing);
-  text-transform: capitalize;
 }
 .hero-btn {
   padding: 0.6rem 1rem;
